@@ -1,0 +1,12 @@
+.outer {
+  display: flex;
+  height: 100vh;
+  background-color: #dddddd;
+}
+.inner {
+  text-align: center;
+  margin: auto;
+}
+.status {
+  font-size: 6em;
+}
